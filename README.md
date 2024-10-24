@@ -1,5 +1,5 @@
 Protect the Survivors
 ============
 
-Um projeto de game 2d android, tower defense com controles via comandos de voz e touch utilizando a engine libGDX. Desenvolvido em 2015.
+Um projeto social de game 2d android, tower defense com controles via comandos de voz e touch para facilitar o usabilidade para pessoas com deficiência. Feito com o sdk da engine libGDX. Desenvolvido em 2015.
 Projeto conceitual, não finalizado.
